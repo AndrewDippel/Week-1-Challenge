@@ -32,13 +32,10 @@ nav {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
 nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
