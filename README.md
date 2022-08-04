@@ -12,5 +12,8 @@ I startd by changing as many of the div tags as i could see was needed to add a 
 ![](screenshots/Screen%20Shot%202022-08-02%20at%2011.21.50%20pm.png)
 ![](screenshots/Screen%20Shot%202022-08-02%20at%2011.22.42%20pm.png)
 
-
-
+to view this page can use either of these links:
+Deployed application:
+https://andrewdippel.github.io/Week-1-Challenge/
+Github repository link:
+https://github.com/AndrewDippel/Week-1-Challenge.git
